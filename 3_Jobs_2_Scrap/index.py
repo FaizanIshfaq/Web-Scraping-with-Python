@@ -62,8 +62,6 @@ def parse_html(box):
         "experience_required": experience_required,
         "location": location,
         "job_link": job_link,
-        
-        
     }
     return job_data
  
